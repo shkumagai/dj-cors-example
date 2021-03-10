@@ -1,0 +1,11 @@
+{
+    "eslint.validate": [
+        "javascript",
+        "vue",
+    ],
+    "python.linting.flake8Args": [
+        "--config .flake8"
+    ],
+    "typescript.tsdk": "./client/node_modules/typescript/lib",
+    "volar.tsPlugin": true
+}
